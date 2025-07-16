@@ -1,0 +1,10 @@
+streamlit
+bcrypt
+whisper
+PyMuPDF
+faiss-cpu
+sentence-transformers
+scikit-learn
+yt_dlp
+python-dotenv
+google-generativeai
